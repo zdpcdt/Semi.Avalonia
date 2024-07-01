@@ -24,9 +24,6 @@ jobs:
       - name: Install wasm-tools
         run: dotnet workload install wasm-tools
 
-      - name: Install DotNetCompress
-        run: dotnet tool install --global DotNetCompress --version 3.0.0 --no-cache
-
       - name: Publish .NET Project
         run: dotnet publish $PROJECT_PATH -c Release --nologo
 
@@ -35,12 +32,6 @@ jobs:
 
       - name: copy index.html to 404.html
         run: cp $OUTPUT_PATH/index.html $OUTPUT_PATH/404.html
-
-      - name: Compress Output using Brotli
-        run: DotNetCompress -d $OUTPUT_PATH -p "*.dll" "*.js" "*.wasm" --format br --threads 4
-
-      - name: Compress Output using GZip
-        run: DotNetCompress -d $OUTPUT_PATH -p "*.dll" "*.js" "*.wasm" --format gz --threads 4
 
       - name: Add .nojekyll file
         run: touch $OUTPUT_PATH/.nojekyll
