@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Semi.Avalonia.Demo.Web.dll",
   "resources": {
-    "hash": "sha256-lQ3uz5jQqUqvBVnGfw6XRTB/4EdpkInTW/52JNH54xs=",
+    "hash": "sha256-haI6neBMr5N+4eK4/YFbUwyH7Lhu/oj5Bp9TMYigZhI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-nexOv6rbsmtPdnpqUAMr627TEhEmgdcIERA/fyjriao="
     },
@@ -20,7 +20,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Avalonia.Base.wasm": "sha256-6FiC2MeQLIdxLLmhWem7CinyXlsEdb+/3NzqjIq8abA=",
+      "Avalonia.Base.wasm": "sha256-vjon24xeiZ5OgdHr0gxcyVM/CdqQh07S9zPBIqKyjy8=",
       "Avalonia.Browser.wasm": "sha256-3x0rovXCWa5LCUyMAlxxmERdupTJCBY0D6uAxnzSe7Y=",
       "Avalonia.Controls.ColorPicker.wasm": "sha256-SY7TgwWLEYOfrXs+89y48Of0CH4UM0tZvFdIFUW/RNg=",
       "Avalonia.Controls.DataGrid.wasm": "sha256-VkpiOCbrsVket0GuZ0fGRH66O81nmM2upgY3FBkHiWE=",
@@ -34,11 +34,11 @@
       "Avalonia.Vulkan.wasm": "sha256-HjydPRrNalHhrbn2jc/OQPjR13s5wuq5mh6STic+NNY=",
       "CommunityToolkit.Mvvm.wasm": "sha256-h2DuTmz4wLCYKHXOcS5Ww+EcyDVvH2u1pq5nknwFJa4=",
       "HarfBuzzSharp.wasm": "sha256-oeOHxk+hl8Dwdapjspl4mg7jJ17OtsJ7xo8KliK7g78=",
-      "Semi.Avalonia.ColorPicker.wasm": "sha256-I7KQOHDkhz3eY0J8ho4ie9DRwAkHy59zXShpbGecDkI=",
-      "Semi.Avalonia.DataGrid.wasm": "sha256-m/RW+SInG6SbBAK/3yAcPhz2d73N6OsKeoBtpWrceM4=",
-      "Semi.Avalonia.Demo.wasm": "sha256-UPAziIdVH3CcVVwMDyTPr4yJKQgY+UpjM48B+fKlHnM=",
-      "Semi.Avalonia.Demo.Web.wasm": "sha256-ERMLAlCq0wQGSDjh4gsMR8Fpm+qOgJob49EcSBDaYJE=",
-      "Semi.Avalonia.wasm": "sha256-guWQ+tzpXjxRXwxkQsj+fCsdZ9VRU07MbfZj+7JNlsk=",
+      "Semi.Avalonia.ColorPicker.wasm": "sha256-2qDhAJt6U0S4X9G7RalsIwoKuE5GpsOMCILJh/B21+c=",
+      "Semi.Avalonia.DataGrid.wasm": "sha256-qTe4v0Kgygf0j2Hr6eIrei3wxGhJRg/dng6geehp4cw=",
+      "Semi.Avalonia.Demo.wasm": "sha256-twMA9H6oKfy9pN7m0dd822fu+CJ9GsxsZcSp2EPlWDY=",
+      "Semi.Avalonia.Demo.Web.wasm": "sha256-24Pmpr3FDmotWpXeoqCR14kgErwyrUXDJBub0RLtlO0=",
+      "Semi.Avalonia.wasm": "sha256-3JNarvTxk5SzC+y2894v0QCIVVaoUg2PuMgSaHPT1HE=",
       "SkiaSharp.wasm": "sha256-TaApD6zNzB23PRGgiQE8e+UtFoabCBKmzDvxL3mhsdA=",
       "System.Collections.Concurrent.wasm": "sha256-H31ymcbcjd/cZFhVWZ1NonaxVSBOFn25wfiDmCxYL8c=",
       "System.Collections.wasm": "sha256-NJFdAV0yXdR8AL4wwFzCKWAbBamwFetz3hiUicMtDyI=",
